@@ -1,2 +1,2 @@
 # Mini Project
-The system detect the vehicles in real time from CCTV cameras, 
+A Traffic surveillance system usually contains two parts, hardware and software. Hardware is a static camera installed on the roadside that captures the video feed and the software part of the system is concerned with processing and analyses. These systems could be portable with a microcontroller attached to the camera for the real-time processing and analyses or just the cameras that transmit the video feed to a centralized computer for further processing.
